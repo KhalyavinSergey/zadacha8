@@ -1,0 +1,5 @@
+D:\practice\zadacha 8\zadacha 8\bin\Debug\zadacha 8.exe.config
+D:\practice\zadacha 8\zadacha 8\bin\Debug\zadacha 8.exe
+D:\practice\zadacha 8\zadacha 8\bin\Debug\zadacha 8.pdb
+D:\practice\zadacha 8\zadacha 8\obj\Debug\zadacha 8.exe
+D:\practice\zadacha 8\zadacha 8\obj\Debug\zadacha 8.pdb
